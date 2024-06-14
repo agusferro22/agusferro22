@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭I am currently studying web design and development at Davinci Faculty..**
+- 🔭I am a web design and development student at the Davinci Faculty..**
 
 - 🌱 I am currently delving into the javascript language.**
 
