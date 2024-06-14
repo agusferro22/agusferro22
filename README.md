@@ -33,10 +33,9 @@
 - ⚽*I love playing potrero soccer**
 
 
-
 - 📫 Feel free to reach me out **agustinvomp@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+
 <!--Intro end-->
 
 
