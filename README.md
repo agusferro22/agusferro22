@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭I am currently studying web design and development at Davinci Faculty..**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I am currently delving into the javascript language.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
