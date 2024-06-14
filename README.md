@@ -30,7 +30,7 @@
 
 - 🌱 I am currently delving into the javascript language.**
 
-- ⚽*I love playing potrero soccer*
+- ⚽*I love playing potrero soccer**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
