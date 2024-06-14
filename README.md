@@ -30,7 +30,7 @@
 
 - 🌱 I am currently delving into the javascript language.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ⚽*I love playing potrero soccer*
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
