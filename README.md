@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I am currently studying web design and development.**
+- 🔭I am currently studying web design and development at Davinci Faculty..**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
